@@ -55,7 +55,7 @@ This analysis helps leadership identify inefficiencies, prioritize improvement a
 
 
 ---
+## Author
+# Harvinder Singh
 
-## Harvinder Singh
-
-# Operations & Quality Leader | Data Analytics (Power BI, Tableau, SQL) | Driving Process Efficiency & Cost Optimization
+### Operations & Quality Leader | Data Analytics (Power BI, Tableau, SQL) | Driving Process Efficiency & Cost Optimization
